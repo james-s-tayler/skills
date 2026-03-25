@@ -6,5 +6,11 @@
   "metadata": {
     "description": "A collection of Claude Code skills"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "autoresearch",
+      "source": "./skills/autoresearch",
+      "description": "Set up autonomous goal-driven optimization — creates a GOAL.md fitness function and runs an improvement loop"
+    }
+  ]
 }
