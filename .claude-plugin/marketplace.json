@@ -1,0 +1,10 @@
+{
+  "name": "james-s-tayler-skills",
+  "owner": {
+    "name": "James S Tayler"
+  },
+  "metadata": {
+    "description": "A collection of Claude Code skills"
+  },
+  "plugins": []
+}
